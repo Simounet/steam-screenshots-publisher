@@ -1,0 +1,18 @@
+{
+    "name": "simounet/steam-screenshots-publisher",
+    "description": "Get screenshots from your Steam local folder, organize and publish it easily.",
+    "type": "project",
+    "require": {},
+    "license": "AGPL-3.0",
+    "authors": [
+        {
+            "name": "Simounet",
+            "email": "contact@simounet.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Simounet\\SteamScreenshotsPublisher\\": "src"
+        }
+    }
+}
